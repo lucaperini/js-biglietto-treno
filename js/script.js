@@ -18,13 +18,3 @@ if (user_age < 18){
     total_price=fair_price;
     document.getElementById('total').innerHTML=total_price.toFixed(2) +"€";
 }
-
-
-
-
-
-
-
-
-
-
